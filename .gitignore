@@ -1,0 +1,4 @@
+/build/
+__pycache__/
+/qa/compare
+/qa/pe_smoke
